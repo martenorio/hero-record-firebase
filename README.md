@@ -1,3 +1,9 @@
+# Deploy
+[hero-record-firebase](https://martenorio.github.io/hero-record-firebase/)
+
+# Comand deploy
+npx angular-cli-ghpages – dir=dist
+
 # HeroesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
